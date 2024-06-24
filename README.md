@@ -12,10 +12,14 @@ Clone the project
 
 ```bash
   git clone 
-  cd spotify-data-explorer
+  cd spotify-data-analyzer
 ```
 
 ```bash
   pip install -r requirements.txt
+```
+
+```bash
+  python src/main.py
 ```
 
